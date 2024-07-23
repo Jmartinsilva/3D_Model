@@ -10,14 +10,6 @@ import { Model } from './Model';
 import { CameraRig } from './CameraRig';
 
 
-
-
-
-
-
-
-
-
 export const App = ({position = [0,0,200], fov = 40 }) => {
  
 
@@ -46,15 +38,23 @@ export const App = ({position = [0,0,200], fov = 40 }) => {
         <CameraRig>
         <Center>
           <Model/>
-          
         </Center>
         </CameraRig>
     </Canvas>
     
+          
   );
 }
         
         
+
+
+
+
+
+
+
+
         
 
         

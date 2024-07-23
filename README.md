@@ -1,20 +1,15 @@
-https://github.com/bastndev/Markdown-24?tab=readme-ov-file
+## Aplicación con React
 
-//codigo del logo
-<p align="center">
-  <img width="180" src="IMG/logo.png">
-</p>
+[![Deploy](https://img.shields.io/badge/Deploy-Netlify-blue)](https://reeact-three-js-dep.netlify.app/)
+Sitio web..☝️
 
-//codigo de las aplicaciones que interactua
-// pagina para agregar las aplicaciones https://shields.io/badges
 
-<div align="center">
-<!-- Download -->
-<a href="https://github.com/bastndev/Markdown-24/releases/tag/v2.0.1">
-   <img src="https://img.shields.io/badge/App-DOWNLOAD-green?logo=microsoftstore&logoColor=green">
-  </a>
-</div>
 
->- Dependencies
+### Descripción
+
+Este proyecto es una aplicación web de una sola página (SPA) construida con React y three js, utilizando la herramienta de desarrollo Yarn Create Vite. 
+
+
+
 
 
