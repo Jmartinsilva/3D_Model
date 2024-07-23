@@ -1,6 +1,6 @@
 ## Aplicación con React
 
-[![Deploy](https://img.shields.io/badge/Deploy-Netlify-blue)](https://reeact-three-js-dep.netlify.app/)
+[![Deploy](https://img.shields.io/badge/Deploy-Netlify-blue)](https://react-three-js-dep.netlify.app)
 Sitio web..☝️
 
 

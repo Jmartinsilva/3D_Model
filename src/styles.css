@@ -23,10 +23,11 @@ body,
   padding: 0;
   overflow: hidden;
   user-select: none;
+  background-color: black;
 }
 
 body {
-  background: #ebe6e6;
+  background: black;
   font-family: 'Inter', sans-serif;
 }
 
